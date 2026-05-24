@@ -168,20 +168,6 @@ I enjoy working on:
 
 # ⏱️ Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-
-```txt
-Python       12 hrs 20 mins  ███████████▒░░░░░░░░░░░░░   45%
-TypeScript    8 hrs 12 mins  ███████▓░░░░░░░░░░░░░░░░░   30%
-Go            3 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11%
-Docker        2 hrs 01 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7%
-Other         1 hr 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░    7%
-```
-
-<!--END_SECTION:waka-->
-
-
----
 
 # 🚀 Highlight Projects
 
