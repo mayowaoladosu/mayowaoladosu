@@ -1,3 +1,5 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Mayowa%20Oladosu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Infrastructure%20•%20AI%20Systems%20•%20Distributed%20Engineering&descAlignY=55"/>
 <!-- ===================================================== -->
 <!--                 GITHUB PROFILE README                 -->
 <!-- ===================================================== -->
@@ -136,6 +138,28 @@ I enjoy working on:
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/mayowaoladosu/mayowaoladosu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
+---
+
+# 🌎 Global Visitors
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=mayowaoladosu&icon=5&color=6" />
+
+</div>
+
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -144,7 +168,245 @@ I enjoy working on:
 
 </div>
 
+------
+
+# ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+Python       12 hrs 20 mins  ███████████▒░░░░░░░░░░░░░   45%
+TypeScript    8 hrs 12 mins  ███████▓░░░░░░░░░░░░░░░░░   30%
+Go            3 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11%
+Docker        2 hrs 01 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7%
+Other         1 hr 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░    7%
+```
+
+<!--END_SECTION:waka-->
+
+
 ---
+
+# 🚀 Highlight Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## ☁️ Cloud Infrastructure
+
+Scalable deployment systems, orchestration tooling, and infrastructure automation focused on modern cloud-native engineering.
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Systems
+
+AI agents, intelligent automation systems, product intelligence tooling, and machine learning infrastructure.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ⚡ Backend Engineering
+
+High-performance APIs, distributed services, event-driven systems, and scalable architectures.
+
+</td>
+
+<td width="50%">
+
+## 🛠️ DevOps & Automation
+
+CI/CD pipelines, deployment automation, infrastructure-as-code, and operational tooling.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏗️ Infrastructure Architecture
+
+## ☁️ Distributed AI Cloud Platform
+
+```mermaid
+flowchart TB
+
+    subgraph Users
+        A[Developers]
+        B[Web Clients]
+        C[API Consumers]
+    end
+
+    subgraph Edge
+        D[Cloudflare CDN]
+        E[Global Load Balancer]
+        F[API Gateway]
+    end
+
+    subgraph Platform Core
+        G[Authentication Service]
+        H[Control Plane]
+        I[Deployment Orchestrator]
+        J[Monitoring Service]
+    end
+
+    subgraph Compute Layer
+        K[Kubernetes Cluster]
+        L[Container Runtime]
+        M[GPU Nodes]
+        N[Worker Nodes]
+    end
+
+    subgraph AI Infrastructure
+        O[Inference Engine]
+        P[Vector Database]
+        Q[LLM Gateway]
+        R[AI Agent Runtime]
+    end
+
+    subgraph Data Layer
+        S[(PostgreSQL)]
+        T[(Redis Cache)]
+        U[(Object Storage)]
+        V[(Analytics DB)]
+    end
+
+    subgraph CI/CD
+        W[GitHub Actions]
+        X[Docker Registry]
+        Y[Terraform]
+    end
+
+    A --> D
+    B --> D
+    C --> D
+
+    D --> E
+    E --> F
+
+    F --> G
+    F --> H
+
+    H --> I
+    H --> J
+
+    I --> K
+
+    K --> L
+    K --> M
+    K --> N
+
+    M --> O
+    N --> O
+
+    O --> P
+    O --> Q
+    O --> R
+
+    O --> S
+    O --> T
+    O --> U
+    O --> V
+
+    W --> X
+    X --> K
+    Y --> K
+```
+---
+
+# 🤖 AI Agent Runtime Architecture
+
+```mermaid
+flowchart LR
+
+    A[User Request]
+        --> B[Gateway API]
+
+    B --> C[Agent Router]
+
+    C --> D[Reasoning Engine]
+    C --> E[Tool Executor]
+    C --> F[Memory Layer]
+
+    D --> G[LLM Providers]
+
+    E --> H[Web Tools]
+    E --> I[Deployment Tools]
+    E --> J[Infrastructure APIs]
+
+    F --> K[(Vector Memory)]
+    F --> L[(Redis Context)]
+
+    G --> M[Response Generator]
+
+    M --> N[Streaming API]
+```
+
+---
+
+# ⚡ CI/CD & Deployment Pipeline
+
+```mermaid
+flowchart LR
+
+    A[Developer Push]
+        --> B[GitHub Actions]
+
+    B --> C[Automated Tests]
+
+    C --> D[Docker Build]
+
+    D --> E[Container Registry]
+
+    E --> F[Kubernetes Deployment]
+
+    F --> G[Production Cluster]
+
+    G --> H[Monitoring & Logs]
+
+    H --> I[Alerting System]
+```---
+
+# 🌍 Global Edge Architecture
+
+```mermaid
+flowchart TB
+
+    subgraph Region1
+        A1[US-East Cluster]
+        A2[GPU Nodes]
+    end
+
+    subgraph Region2
+        B1[Europe Cluster]
+        B2[Inference Nodes]
+    end
+
+    subgraph Region3
+        C1[Africa Edge]
+        C2[Low Latency Cache]
+    end
+
+    D[Global Traffic Manager]
+
+    E[Users Worldwide]
+
+    E --> D
+
+    D --> A1
+    D --> B1
+    D --> C1
+
+    A1 --> A2
+    B1 --> B2
+    C1 --> C2
+
+```
 
 # 📈 Contribution Graph
 
