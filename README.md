@@ -211,6 +211,8 @@ CI/CD pipelines, deployment automation, infrastructure-as-code, and operational 
 
 ---
 
+---
+
 # 🏗️ Infrastructure Architecture
 
 ## ☁️ Distributed AI Cloud Platform
@@ -328,7 +330,6 @@ flowchart LR
 
     M --> N[Streaming API]
 ```
-
 ---
 
 # ⚡ CI/CD & Deployment Pipeline
@@ -352,7 +353,8 @@ flowchart LR
     G --> H[Monitoring & Logs]
 
     H --> I[Alerting System]
-```---
+```
+---
 
 # 🌍 Global Edge Architecture
 
@@ -387,7 +389,6 @@ flowchart TB
     A1 --> A2
     B1 --> B2
     C1 --> C2
-
 ```
 
 # 📈 Contribution Graph
