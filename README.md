@@ -12,14 +12,25 @@
 
 ---
 
-<div align="center">
-  <a href="https://commit-history.com/mayowaoladosu">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/mayowaoladosu?theme=dark" />
-      <img alt="mayowaoladosu's commit history" src="https://commit-history.com/embed/mayowaoladosu" />
-    </picture>
-  </a>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayowaoladosu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=transparent" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mayowaoladosu&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayowaoladosu&theme=github-compact&hide_border=true&radius=12" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayowaoladosu&layout=compact&langs_count=12&hide_border=true&theme=transparent" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayowaoladosu&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayowaoladosu&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=12" />
+</p>
 
 # 🚀 About Me
 
