@@ -1,4 +1,4 @@
-<img width="960" height="186" alt="image" src="https://github.com/user-attachments/assets/55ff785e-7f8e-4bdd-b107-36e233bdede5" />
+
 <!-- ===================================================== -->
 <!--                 GITHUB PROFILE README                 -->
 <!-- ===================================================== -->
