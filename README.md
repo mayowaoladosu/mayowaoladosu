@@ -1,4 +1,4 @@
-
+<img width="960" height="186" alt="image" src="https://github.com/user-attachments/assets/55ff785e-7f8e-4bdd-b107-36e233bdede5" />
 <!-- ===================================================== -->
 <!--                 GITHUB PROFILE README                 -->
 <!-- ===================================================== -->
@@ -13,23 +13,17 @@
 ---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayowaoladosu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=transparent" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mayowaoladosu&hide_border=true&theme=transparent" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mayowaoladosu&theme=github-dark&hide_border=true&radius=16"
+  />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayowaoladosu&theme=github-compact&hide_border=true&radius=12" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayowaoladosu&layout=compact&langs_count=12&hide_border=true&theme=transparent" />
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayowaoladosu&theme=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayowaoladosu&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=12" />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayowaoladosu&theme=github_dark"
+  />
 </p>
 
 # 🚀 About Me
