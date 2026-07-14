@@ -12,20 +12,6 @@
 
 ---
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mayowaoladosu&theme=github-dark&hide_border=true&radius=16"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayowaoladosu&theme=github_dark"
-  />
-</p>
-
 # 🚀 About Me
 
 ```yaml
