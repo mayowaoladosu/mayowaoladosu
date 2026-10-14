@@ -6,6 +6,8 @@ I'm interested in backend, full-stack, and platform engineering opportunities.
 
 [Portfolio](https://oluwamayowa.vercel.app) · [Email](mailto:ceo@layerrail.com) · [X](https://x.com/oluwamayowa)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayowaoladosu&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
 **Tools I work with:** Python · Ruby · TypeScript · Go · React / Next.js · PostgreSQL · Docker · GitHub Actions
 
 ## Selected work
